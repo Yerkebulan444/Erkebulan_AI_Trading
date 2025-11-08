@@ -1,0 +1,11 @@
+# Secrets and env
+.env
+.env.local.bak
+*.pyc
+__pycache__/
+logs/
+release/
+*.tar.gz
+.vscode/
+.idea/
+venv/
